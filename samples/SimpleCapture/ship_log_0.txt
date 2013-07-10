@@ -1,0 +1,17 @@
+0:00:00.000 Mon Jun 17 15:23:23 2013
+
+0:00:00.000 SHIP: Single    Read: shipAddr=0xBA, ( 8)regAddr=0x2B,   (16)read= 0x0008
+0:00:00.000 SHIP: Single   Write: shipAddr=0xBA, ( 8)regAddr=0x2B,   (16)write=0x0008
+0:00:00.000 SHIP: Single    Read: shipAddr=0xBA, ( 8)regAddr=0x2C,   (16)read= 0x0008
+0:00:00.000 SHIP: Single   Write: shipAddr=0xBA, ( 8)regAddr=0x2C,   (16)write=0x000E
+0:00:00.000 SHIP: Single    Read: shipAddr=0xBA, ( 8)regAddr=0x2D,   (16)read= 0x0008
+0:00:00.000 SHIP: Single   Write: shipAddr=0xBA, ( 8)regAddr=0x2D,   (16)write=0x000A
+0:00:00.000 SHIP: Single    Read: shipAddr=0xBA, ( 8)regAddr=0x2E,   (16)read= 0x0008
+0:00:00.000 SHIP: Single   Write: shipAddr=0xBA, ( 8)regAddr=0x2E,   (16)write=0x0008
+0:00:00.000 SHIP: Single   Write: shipAddr=0xBA, ( 8)regAddr=0x09,   (16)write=0x0797
+0:00:00.000 SHIP: Single    Read: shipAddr=0x64, ( 8)regAddr=0x10,   (16)read= 0x001C
+0:00:00.000 SHIP: Single    Read: shipAddr=0x64, ( 8)regAddr=0x10,   (16)read= 0x001C
+0:00:00.000 SHIP: Single    Read: shipAddr=0x64, ( 8)regAddr=0x10,   (16)read= 0x001C
+0:00:00.000 SHIP: Single    Read: shipAddr=0x64, ( 8)regAddr=0x10,   (16)read= 0x001C
+0:00:00.000 SHIP: Single    Read: shipAddr=0x64, ( 8)regAddr=0x10,   (16)read= 0x001C
+0:00:00.000 SHIP: Single    Read: shipAddr=0x64, ( 8)regAddr=0x10,   (16)read= 0x001C
