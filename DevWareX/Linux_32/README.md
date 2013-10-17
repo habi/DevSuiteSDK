@@ -18,8 +18,11 @@ possible with the the following sequence of commands (based on
 
 I also added the Python3-directories to the path, see
 [here](https://github.com/habi/dotfiles/blob/master/.bashrc).
-Unfortunately, this doesn't solve the problem that I cannot start neither
-'Devware.exe` nor `python3`, both complain about
-> python3: error while loading shared libraries: libpython3.3m.so.1.0: cannot
->  open shared object file: No such file or directory
+This linking made it possible to start `python3`, but the starting
+`./DevWareX.exe` was still not possible, since it complained about missing
+tbb libraries (I did not copy the commandline prior to solving).
 
+To install the tbb libraries, I downloaded them from
+[pbone.net](http://is.gd/3R3Ggp) and installed them locally with 
+
+	yum --nogpgcheck localinstall tbb-devel-2.2-3.20090809.el6.i686.rpm
